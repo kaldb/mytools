@@ -66,6 +66,8 @@ docker run -it memcrashed
 
 Prerequisites:
 apt-get install python3
+
   pip install scapy
+  
 pip install shodan
 ```
