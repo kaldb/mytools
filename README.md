@@ -16,11 +16,6 @@ git clone https://github.com/KURO-CODE/Skeleton
     chmod +x skeleton.sh
     
       ./skeleton.sh
-
-ALTERNATIVE:
-cd Skeleton
-
-  sudo bash ./skeleton.sh
 ```
 **BLACK-EYE**
 *USED IN KALI*
@@ -54,20 +49,19 @@ instagram-py -u your_account_username -pl path_to_password_list
 **MEMECRASHED**
 *USED IN KALI*
 ```
-git clone https://github.com/649/Memcrashed-DDoS-Exploit.git
+apt-get install python3
 
-  cd Memcrashed-DDoS-Exploit
+ pip install scapy
   
-    echo "SHODAN_KEY" > api.txt
+  pip install shodan
+
+   git clone https://github.com/649/Memcrashed-DDoS-Exploit.git
+
+    cd Memcrashed-DDoS-Exploit
+  
+   echo "SHODAN_KEY" > api.txt
     
   docker build -t memcrashed .
   
 docker run -it memcrashed
-
-Prerequisites:
-apt-get install python3
-
-  pip install scapy
-  
-pip install shodan
 ```
