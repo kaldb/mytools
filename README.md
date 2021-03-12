@@ -1,6 +1,7 @@
 ***OTHER GITHUB TOOLS THAT CAN BE USED FOR HACKING***
-    *DOS, DDOS, PHISING, DOXING, BRUTE FORCING*
-## sdfs fsf
-
-###sd fsdfsa  f
-```asd sD D ```
+ - PHISHING 
+ - DDOS
+ - BRUTE-FORCE
+ - DOX
+ - METHODS
+##fart
