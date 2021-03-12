@@ -1,0 +1,20 @@
+[!] HOW TO USE [1]
+
+***KURO-CODE***
+EX(1):
+git clone https://github.com/KURO-CODE/Skeleton
+  cd Skeleton
+    chmod +x skeleton.sh
+      ./skeleton.sh
+
+EX(2):
+cd Skeleton
+  sudo bash ./skeleton.sh
+  
+[!] HOW TO USE [!]
+  
+***BLACK-EYE***
+EX:
+git clone https://github.com/thelinuxchoice/blackeye
+  cd blackeye
+    bash blackeye.sh
